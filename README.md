@@ -1,4 +1,4 @@
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 This repository was created for the purpose of Data Science course Getting and Cleaning Data Course Project
 It contains 4 files:

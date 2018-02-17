@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-This repository was created for the purpose of Data Science course Getting and Cleaning Data Course Project
+This repository was created for the purpose of Data Science course Getting and Cleaning Data Course Project.
 It contains 4 files:
 * README.md - short description of files
 * CodeBook.md - description of work and variables
